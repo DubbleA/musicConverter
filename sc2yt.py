@@ -8,7 +8,7 @@ import json
 import youtube_dl
 
 
-LINK = "https://soundcloud.com/fake-a11/sets/your-2019-playback"
+LINK = "your soundcloud link"
 SKIPPED = []
 
 class Song:
